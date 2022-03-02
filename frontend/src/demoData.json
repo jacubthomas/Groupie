@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "eventName": "Beach Volleyball",
+        "proposer": "Rory Blonski",
+        "proposedDates": [
+            "12-12-2021"
+        ],
+        "startDate": "12-12-2021",
+        "startTime": 1600,
+        "finalized": true,
+        "responded": true,
+        "invited": [
+            "Jacob Harrington",
+            "Max Bacani",
+            "Xiaolong Chen",
+            "admin"
+        ]
+    },
+    {
+        "id": 2,
+        "eventName": "Mini Golf",
+        "proposer": "Xiaolong Chen",
+        "proposedDates": [
+            "12-8-2021"
+        ],
+        "startDate": "",
+        "startTime": 1100,
+        "finalized": false,
+        "responded": true,
+        "invited": [
+            "Jacob Harrington",
+            "Max Bacani",
+            "Rory Blonski",
+            "admin"
+        ]
+    },
+    {
+        "id": 3,
+        "eventName": "Christmas",
+        "proposer": "Max Bacani",
+        "proposedDates": [
+            "12-25-2021"
+        ],
+        "startDate": "12-25-2021",
+        "startTime": 1900,
+        "accepted": true,
+        "responded": true,
+        "invited": [
+            "Jacob Harrington",
+            "Xiaolong Chen",
+            "Rory Blonski",
+            "admin"
+        ]
+    },
+    {
+        "id": 4,
+        "eventName": "Concert",
+        "proposer": "Jacob Harrington",
+        "proposedDates": [
+            "12-20-2021",
+            "12-21-2021"
+        ],
+        "startDate": "",
+        "startTime": 2100,
+        "accepted": false,
+        "responded": false,
+        "invited": [
+            "Jacob Harrington",
+            "Xiaolong Chen",
+            "Rory Blonski",
+            "admin"
+        ]
+    }
+]
